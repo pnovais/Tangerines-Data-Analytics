@@ -1,4 +1,6 @@
 # Welcome to the Tangerines Data&Analytics!
+------------------------------------
+------------------------------------
 
 ## O que fazemos:
 

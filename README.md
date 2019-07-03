@@ -14,7 +14,7 @@ Junte-se a nós e seja um gomo dessa bagaça.. não é bagaço é bagaça mesmo!
 
 #2 Encontro:
 * [Projeto real de Machine Learning end-to-end](https://github.com/pnovais/Data_Tangerines/blob/master/Apresenta%C3%A7%C3%B5es/Projeto%20de%20Machine%20Learning%20do%20zero.ppsx) (Renata Martins Marchese)
-* [Da Astrofísica à Saúde: a questão interdisciplinar da Ciência de Dados](https://github.com/pnovais/Data_Tangerines/blob/master/Apresenta%C3%A7%C3%B5es/%232_Tangerines.pptx) (Patricia Martins Novais)
+* [Da Astrofísica à Saúde: a questão interdisciplinar da Ciência de Dados](https://github.com/pnovais/Tangerines-Data-Analytics/blob/master/Apresenta%C3%A7%C3%B5es/Da_Astrofisica_a_Saude.pdf) (Patricia Martins Novais)
 
 #3 Encontro:
 Em breve...

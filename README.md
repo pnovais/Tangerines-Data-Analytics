@@ -10,11 +10,11 @@ Junte-se a nós e seja um gomo dessa bagaça.. não é bagaço é bagaça mesmo!
 
 -----------------------------------
 ## Quem Somos:
-Patricia Novais: Astrofísica e Cientista de Dados na SulAmérica
+[Patricia Novais](www.linkedin.com/in/patricianovais): Astrofísica e Cientista de Dados na SulAmérica
 
-Mathias Brem: Gerente de Engenharia de Dados na SulAmérica
+[Mathias Brem Garcia](https://www.linkedin.com/in/mathiasbremgarcia/): Gerente de Engenharia de Dados na SulAmérica
 
-Luis Rudi: Engenheiro de Dados na SulAmérica
+[Luís Rudí](https://www.linkedin.com/in/luisrudi/): Engenheiro de Dados na SulAmérica
 
 -----------------------------------
 ## **Apresentações**

@@ -10,7 +10,7 @@ Junte-se a nós e seja um gomo dessa bagaça.. não é bagaço é bagaça mesmo!
 
 -----------------------------------
 ## Quem Somos:
-[Patricia Novais](www.linkedin.com/in/patricianovais): Astrofísica e Cientista de Dados na SulAmérica
+[Patricia Novais](https://www.linkedin.com/in/patricianovais/): Astrofísica e Cientista de Dados na SulAmérica
 
 [Mathias Brem Garcia](https://www.linkedin.com/in/mathiasbremgarcia/): Gerente de Engenharia de Dados na SulAmérica
 

@@ -28,4 +28,10 @@ Junte-se a nós e seja um gomo dessa bagaça.. não é bagaço é bagaça mesmo!
 
 ***#3 Encontro: (30/07/2019):***
 * [Gerando Valor em Escala](https://github.com/pnovais/Tangerines-Data-Analytics/blob/master/Apresenta%C3%A7%C3%B5es/Gerando_Valor_em_Dados_Ruza_Pantaleao.pdf) (Paulo Ruza, Caio Pantaleão)
+
+* [Governança de Dados em Perspectiva](https://github.com/pnovais/Tangerines-Data-Analytics/blob/master/Apresenta%C3%A7%C3%B5es/Governanca_Dados_em_Perspectiva_Palmeiro.pdf) (Marcos Palmeiro)
+
+
+
+***#4 Encontro:***
 Em breve...

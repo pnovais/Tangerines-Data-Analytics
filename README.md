@@ -33,5 +33,11 @@ Junte-se a nós e seja um gomo dessa bagaça.. não é bagaço é bagaça mesmo!
 
 
 ***#4 Encontro:***
+* [Case: Ilha de Rentabilidade](https://github.com/pnovais/Tangerines-Data-Analytics/blob/master/Apresenta%C3%A7%C3%B5es/Ilha_Rentabilidade.pdf) (Josimar Campos)
+* [Sugestões de como colocar ML em produção](https://github.com/pnovais/Tangerines-Data-Analytics/blob/master/Apresenta%C3%A7%C3%B5es/como_colocar_ML_producao.pdf) (Ricardo Manhães Savii)
+
+
+
+***#5 Encontro:***
 
 Em breve...

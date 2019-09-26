@@ -6,7 +6,8 @@
 
 Um meetup para todos os interessados pelos diversos temas relacionados ao universo de analise de dados! Convidamos aqui palestrantes do mercado e do universo acadêmico para trocarem experiências e idéias através de meetups realizados mensalmente.
 
-Junte-se a nós e seja um gomo dessa bagaça.. não é bagaço é bagaça mesmo!
+Seja um Tangerine e junte-se a nós na missão de transformar o mundo utilizando o suprassumo da tecnologia e dos dados!
+
 
 -----------------------------------
 ## Quem Somos
